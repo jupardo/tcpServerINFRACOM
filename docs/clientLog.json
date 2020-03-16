@@ -1,0 +1,114 @@
+{
+  "Time Spent": "5seconds",
+  "Client IP": "undefined",
+  "Bytes written": "22",
+  "Bytes Read": "44626309",
+  "Time": "Sun Mar 15 2020 22:41:22 GMT-0500 (hora estándar de Colombia)",
+  "Success": true
+},
+{
+  "Time Spent": "5seconds",
+  "Client IP": "undefined",
+  "Bytes written": "22",
+  "Bytes Read": "44626309",
+  "Time": "Sun Mar 15 2020 22:42:32 GMT-0500 (hora estándar de Colombia)",
+  "Success": true
+}
+{
+  "Time Spent": "5seconds",
+  "Bytes written": "22",
+  "Bytes Read": "44626309",
+  "Time": "Sun Mar 15 2020 22:43:44 GMT-0500 (hora estándar de Colombia)",
+  "Success": true
+}
+{
+  "Time Spent": "6seconds",
+  "Bytes written": "22",
+  "Bytes Read": "44626309",
+  "Time": "Sun Mar 15 2020 22:53:09 GMT-0500 (hora estándar de Colombia)",
+  "Success": true
+}
+{
+  "Time Spent": "6seconds",
+  "Bytes written": "22",
+  "Bytes Read": "44626309",
+  "Time": "Sun Mar 15 2020 22:54:09 GMT-0500 (hora estándar de Colombia)",
+  "Success": true
+}
+{
+  "Time Spent": "NaNseconds",
+  "Bytes written": "25",
+  "Bytes Read": "44626313",
+  "Time": "Sun Mar 15 2020 23:55:56 GMT-0500 (Colombia Standard Time)",
+  "Success": false
+}
+{
+  "Time Spent": "NaNseconds",
+  "Bytes written": "25",
+  "Bytes Read": "44626313",
+  "Time": "Sun Mar 15 2020 23:56:26 GMT-0500 (Colombia Standard Time)",
+  "Success": false
+}
+{
+  "Time Spent": "NaNseconds",
+  "Bytes written": "20",
+  "Bytes Read": "101",
+  "Time": "Sun Mar 15 2020 23:57:22 GMT-0500 (Colombia Standard Time)",
+  "Success": false
+}
+{
+  "Time Spent": "NaNseconds",
+  "Bytes written": "25",
+  "Bytes Read": "44626313",
+  "Time": "Sun Mar 15 2020 23:58:40 GMT-0500 (Colombia Standard Time)",
+  "Success": false
+}
+{
+  "Time Spent": "NaNseconds",
+  "Bytes written": "25",
+  "Bytes Read": "44626313",
+  "Time": "Sun Mar 15 2020 23:59:25 GMT-0500 (Colombia Standard Time)",
+  "Success": false
+}
+{
+  "Time Spent": "NaNseconds",
+  "Bytes written": "25",
+  "Bytes Read": "44626313",
+  "Time": "Sun Mar 15 2020 23:59:48 GMT-0500 (Colombia Standard Time)",
+  "Success": false
+}
+{
+  "Time Spent": "NaNseconds",
+  "Bytes written": "25",
+  "Bytes Read": "44626313",
+  "Time": "Mon Mar 16 2020 00:00:23 GMT-0500 (Colombia Standard Time)",
+  "Success": false
+}
+{
+  "Time Spent": "NaNseconds",
+  "Bytes written": "25",
+  "Bytes Read": "44626313",
+  "Time": "Mon Mar 16 2020 00:00:48 GMT-0500 (Colombia Standard Time)",
+  "Success": false
+}
+{
+  "Time Spent": "6seconds",
+  "Bytes written": "22",
+  "Bytes Read": "44626309",
+  "Time": "Mon Mar 16 2020 00:01:07 GMT-0500 (Colombia Standard Time)",
+  "Success": true
+}
+{
+  "Time Spent": "5seconds",
+  "Bytes written": "22",
+  "Bytes Read": "44626309",
+  "Time": "Mon Mar 16 2020 00:02:07 GMT-0500 (Colombia Standard Time)",
+  "Success": true
+}
+{
+  "Time Spent": "5seconds",
+  "Bytes written": "22",
+  "Bytes Read": "44626309",
+  "Time": "Mon Mar 16 2020 00:03:18 GMT-0500 (Colombia Standard Time)",
+  "Success": true
+}

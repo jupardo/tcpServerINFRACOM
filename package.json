@@ -1,0 +1,12 @@
+{
+  "name": "tcpserver",
+  "version": "1.0.0",
+  "description": "A simple project to test a tcp connection",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "file='./data/file1.dmg' NumberOfRequiredConnections=1 node server.js"
+  },
+  "author": "Julian David Pardo Diaz",
+  "license": "ISC"
+}
